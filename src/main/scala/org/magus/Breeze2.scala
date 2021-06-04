@@ -26,17 +26,9 @@ object Breeze2 {
       }else{
         val dm1 = DenseMatrix(first)
         val dm2 = DenseMatrix(list)
-
       }
-
-
-
       println(line)
     }
-
-
-
-
   }
 
 }
